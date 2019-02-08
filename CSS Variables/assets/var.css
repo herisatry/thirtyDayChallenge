@@ -1,0 +1,50 @@
+/* we define variables*/
+
+:root {
+    --spacing: 10px;
+    --base: #ffc600;
+    --blurr: 10px;
+}
+
+
+/* default style */
+
+body {
+    text-align: center;
+}
+
+body {
+    background: #193549;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 100;
+    font-size: 50px;
+}
+
+
+/*passing variable */
+
+img {
+    width: 500px;
+    height: auto;
+    padding: var(--spacing);
+    background: var(--base);
+    filter: blur(var(--blurr));
+}
+
+.hl {
+    color: var(--base);
+}
+
+.controls {
+    margin: 50px;
+}
+
+a {
+    color: var(--base);
+    text-decoration: none;
+}
+
+input {
+    width: 100px;
+}
