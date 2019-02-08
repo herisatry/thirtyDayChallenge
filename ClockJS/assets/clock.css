@@ -21,9 +21,6 @@ body {
 
 }
 
-.clock-face {
-
-}
 
 .hand {
     width: 50%;
@@ -35,17 +32,5 @@ body {
     transform: rotate(90deg);
     transition: all 0.05;
     transition-timing-function: ease-in-out;
-
-}
-
-.hour-hand {
-
-}
-
-.min-hand {
-
-}
-
-.second-hand {
 
 }
