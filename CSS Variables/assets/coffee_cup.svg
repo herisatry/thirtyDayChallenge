@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="iso-8859-1"?>
 <!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
@@ -40,3 +41,47 @@
 <g>
 </g>
 </svg>
+=======
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 340 340" style="enable-background:new 0 0 340 340;" xml:space="preserve">
+<g id="XMLID_484_">
+	<path id="XMLID_486_" d="M300,40h-20.007l-16.7-31.949C260.706,3.102,255.584,0,250,0H90c-5.585,0-10.706,3.102-13.294,8.051
+		L60.006,40H40c-8.284,0-15,6.716-15,15s6.716,15,15,15h16.812c0.01,0.009,0.021,0.018,0.03,0.027l27.221,247.704
+		c1.393,12.673,12.1,22.269,24.85,22.269h122.175c12.75,0,23.458-9.595,24.851-22.269l27.22-247.704
+		c0.011-0.009,0.021-0.018,0.03-0.027H300c8.284,0,15-6.716,15-15S308.284,40,300,40z M170,245c-38.66,0-70-31.34-70-70
+		s31.34-70,70-70s70,31.34,70,70S208.66,245,170,245z"/>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+<g>
+</g>
+</svg>
+>>>>>>> 04243cd5f33955011963124f037ee0bfad65f0b8

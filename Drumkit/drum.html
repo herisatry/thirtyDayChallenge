@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>DrumKitJS</title>
+</head>
+
+<body>
+    <link rel="stylesheet" href="./assets/drum.css">
+
+
+    <h1>DrumKitJS - 30DAYSCHALLENGE</h1>
+
+    <!-- BUTTONS -->
+
+    <div class="keys">
+        <div>
+            <div class="key" data-key="81"> <kbd>Q</kbd> <span class="sound">boom</span></div>
+            <div class="key" data-key="87"> <kbd>W</kbd> <span class="sound">clap</span></div>
+            <div class="key" data-key="69"> <kbd>E</kbd> <span class="sound">hihat</span></div>
+        </div>
+        <div>
+            <div class="key" data-key="65"> <kbd>A</kbd> <span class="sound">kick</span></div>
+            <div class="key" data-key="83"> <kbd>S</kbd> <span class="sound">openhat</span></div>
+            <div class="key" data-key="68"> <kbd>D</kbd> <span class="sound">ride</span></div>
+        </div>
+        <div>
+            <div class="key" data-key="90"> <kbd>Z</kbd> <span class="sound">snare</span></div>
+            <div class="key" data-key="88"> <kbd>X</kbd> <span class="sound">tink</span></div>
+            <div class="key" data-key="67"> <kbd>C</kbd> <span class="sound">tom</span></div>
+        </div>
+
+
+    </div>
+
+    <!-- AUDIO SOURCE-->
+
+    <audio src="./assets/sounds/boom.wav" data-key="81"></audio>
+    <audio src="./assets/sounds/clap.wav" data-key="87"></audio>
+    <audio src="./assets/sounds/hihat.wav" data-key="69"></audio>
+    <audio src="./assets/sounds/kick.wav" data-key="65"></audio>
+    <audio src="./assets/sounds/openhat.wav" data-key="83"></audio>
+    <audio src="./assets/sounds/ride.wav" data-key="68"></audio>
+    <audio src="./assets/sounds/snare.wav" data-key="90"></audio>
+    <audio src="./assets/sounds/tink.wav" data-key="88"></audio>
+    <audio src="./assets/sounds/tom.wav" data-key="67"></audio>
+
+    <!--LOADING ALL THE SCRIPTS-->
+    <script src="./assets/drum.js"></script>
+</body>
+
+</html>
