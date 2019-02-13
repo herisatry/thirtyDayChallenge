@@ -10,3 +10,6 @@ I will so add this minor correction to the html files from challenges :
     
 The tricky use of filter(), map() , sort() , reduce(), include(),
 ternary condition [ condition1 ? true : false ]
+
+
+http://prntscr.com/mkqa9r
